@@ -16,13 +16,13 @@ Menampilkan tulisan "Saya sedang belajar pyton"
 
  Lakukan penulisan seperti contoh di bawah:
 
-![Sc latihan 1](ss1.png)
+![latihan 1](gambar/ss1.png)
 
 
 
 Hasil dari tulisan diatas:
 
-![output-latihan1](latihan1.png)
+![output-latihan1](gambar/latihan1.png)
 
 
 # Latihan 2 Menjumlahkan dua bilangan menggunakan variabel a dan b
@@ -36,11 +36,11 @@ mencetak hasil penjumlahan a+b
 
  Lakukan penulisan seperti contoh dibawah:
 
-![Sc latihan 2](ss2.png)
+![latihan 2](gambar/ss2.png)
 
 Hasil dari tulisan diatas:
 
-![output-latihan2](latihan2.png)
+![output-latihan2](gambar/ss2.png)
 
 
 # Latihan 3 Menjalankan IDLE
@@ -50,9 +50,9 @@ Menggunakan fungsi input untuk mengambil nilai variable dari keyboard
 
  Lakukan penulisan seperti contoh dibawah:
 
-![Sc latihan 3](ss3.png)
+![latihan 3](gambar/ss3.png)
 
 
 Hasil dari tulisan diatas:
 
-![output-latihan3](latihan3.png)
+![output-latihan3](gambar/latihan3.png)
